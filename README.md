@@ -4,7 +4,7 @@ final-project-threejs-russ-team created by GitHub Classroom
 Final Project Three.js Russ Team
 
 Hashfi Putraza Hikmat 05111942000021
-Asthma Pasya Mustofa 05111942000015
+Hika Pasya Mustofa 05111942000015
 
 Link Proposal Presentation
 
